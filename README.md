@@ -51,31 +51,11 @@ class Gabriel:
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:7c3aed,100:000000&height=3" width="100%" alt="" />
 </div>
 
-## 📊 Estatísticas
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&hide_border=true&count_private=true&title_color=a855f7&text_color=e5e5e5&icon_color=8b5cf6&bg_color=0d0d0d" alt="Estatísticas" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&hide_border=true&title_color=a855f7&text_color=e5e5e5&bg_color=0d0d0d" alt="Linguagens" />
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU-USUARIO&hide_border=true&background=0d0d0d&ring=a855f7&fire=c084fc&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=a855f7&sideLabels=c4b5fd&dates=8b5cf6" alt="Sequência de contribuições" />
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU-USUARIO&bg_color=0d0d0d&color=a855f7&line=7c3aed&point=ffffff&area=true&area_color=7c3aed&hide_border=true" alt="Gráfico de atividade" width="95%" />
-
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:7c3aed,100:000000&height=3" width="100%" alt="" />
-</div>
-
 ## 🎯 Foco atual
 
 - 🧩 Dominar lógica de programação e Programação Orientada a Objetos
 - 🐍 Aprofundar em Python
+- ☕ Aperfeiçoar meus conhecimentos em Java
 - 🗄️ Evoluir em modelagem e consultas de banco de dados
 - 🌍 Melhorar meu inglês técnico
 - 🎓 Concluir a graduação em ADS
